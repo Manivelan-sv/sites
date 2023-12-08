@@ -444,7 +444,7 @@ header .navbar ul li a:hover {
 
 /* skills section starts */
 .skills {
-  min-height: 100vh;
+  min-height: auto;
 
 }
 .skills h2 {
@@ -518,7 +518,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  min-height: 100vh;
+  min-height: auto;
 }
 .education .qoute {
   font-size: 1.5rem;
@@ -667,6 +667,7 @@ header .navbar ul li a:hover {
 
 /* work section starts */
 .work {
+  min-height: auto;
   /* background: #010124; */
 }
 .work h2 {
@@ -889,7 +890,7 @@ header .navbar ul li a:hover {
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
   .ResearchExperience {
-    min-height: 100vh;
+    min-height: 80vh;
   }
   .ResearchExperience .timeline {
     margin-top: 2rem;
