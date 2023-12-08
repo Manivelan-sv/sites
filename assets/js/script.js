@@ -237,7 +237,6 @@ srtop.reveal('.education .box', { interval: 200 });
 srtop.reveal('.work .box', { interval: 200 });
 
 /* SCROLL ResearchExperience */
-srtop.reveal('.ResearchExperience .timeline', { delay: 400 });
 srtop.reveal('.ResearchExperience .timeline .container', { interval: 400 });
 
 /* SCROLL CONTACT */
