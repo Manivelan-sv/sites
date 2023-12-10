@@ -684,12 +684,12 @@ header .navbar ul li a:hover {
   margin: 2rem;
 }
 .work .box-container .box {
-  flex: 1 1 30rem;
+  flex: 1 1 15rem;
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
-  height: 30rem;
+  height: 22rem;
 }
 .work .box-container .box img {
   height: 100%;
@@ -700,7 +700,7 @@ header .navbar ul li a:hover {
   height: 100%;
   width: 100%;
   position: absolute;
-  top: 85%;
+  top: 90%;
   left: 0;
   background: rgba(255, 255, 255, 0.9);
   display: flex;
@@ -711,13 +711,13 @@ header .navbar ul li a:hover {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 4.5rem;
+  height: 2rem;
   width: 100%;
   padding-left: 1rem;
   background: #ffd900;
 }
 .work .box-container .box .content .tag h3 {
-  font-size: 2rem;
+  font-size: 1.0rem;
 }
 .work .box-container .box:hover .content {
   top: 25%;
@@ -729,23 +729,23 @@ header .navbar ul li a:hover {
   justify-content: center;
 }
 .work .desc p {
-  font-size: 1.5rem;
+  font-size: 1.0rem;
 }
 .work .desc .btns {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 .work .desc .btns .btn {
   line-height: 0;
   display: inline;
-  padding: 1.5rem 2.5rem;
+  padding: 0.5rem 0.5rem;
   border-radius: 0.5rem;
-  font-size: 1.5rem;
+  font-size: 1.0rem;
   color: #fff;
   background: rgb(12, 12, 12);
-  margin-right: 2rem;
+  margin-right: 0.5rem;
 }
 .work .desc .btns .btn:hover {
   background: #310ae0f5;
